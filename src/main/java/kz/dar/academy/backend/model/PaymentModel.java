@@ -15,6 +15,6 @@ public class PaymentModel {
 
     Date date = new Date();
 
-    public PaymentModel(String paymentId, String electricity, String s) {
+    public PaymentModel(String paymentId, String typeOfService, String s) {
     }
 }
